@@ -1,4 +1,5 @@
 /*given two sorted arrays, to print Union of the two arrays.
+Union of arrays: printing all the elements combining both the arrays
 array1 of size m and array2 of size n.*/
 
 
