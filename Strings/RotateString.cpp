@@ -10,6 +10,8 @@ Output: true
 Example 2:
 Input: s = "abcde", goal = "abced"
 Output: false
+
+based on the Naive algorithm pattern searching where we search one pattern in a long piece of text, but here we donot have  along text so we make it from the 'string'
 */
 
 
