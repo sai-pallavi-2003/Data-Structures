@@ -28,3 +28,27 @@ int main() {
 
     return 0;
 }
+
+
+
+
+//brute force approach
+
+
+#include<iostream>
+using namespace std;
+int main()
+{
+    int n,arr[n];
+    cout<<"number of the elements: ";
+    cin>>n;
+    cout<<"enter the elements: ";
+    for(int i=0;i<n;i++){
+        cin>>arr[i];
+    }
+    cout<<"after reversing: ";
+    for(int j=n-1;j>=0;j--){
+        cout<<arr[j]<<"  ";
+    }
+    
+}
